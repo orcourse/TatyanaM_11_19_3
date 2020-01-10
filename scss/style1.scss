@@ -1,0 +1,26 @@
+$back: #eff0f2;
+$back2: #f8fafa;
+
+.wrapper {
+    h1{
+       color: #505050; 
+    }
+}
+
+.wrapper .header {
+    background-color: $back;
+}
+
+.wrapper{
+    .container2{
+        background-color: $back2;
+    }
+
+    .container4{
+        background-color: $back2;
+    }
+
+    .container6{
+        background-color: $back2;
+    }
+}

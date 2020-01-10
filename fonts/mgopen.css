@@ -1,0 +1,19 @@
+@font-face{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Montserrat'), url('./Montserrat/Montserrat-Bold.ttf') format('ttf')
+}
+@font-face{
+    font-family: 'Merriweather', serif;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Merriweather'), url('./Merriweather/Merriweather-Regular.ttf') format('ttf');
+}
+@font-face{
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Raleway'), url('./Raleway/Raleway-Regular.ttf') format('ttf');
+
+}
